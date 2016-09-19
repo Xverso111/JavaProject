@@ -5,5 +5,6 @@ public interface AppleFilter {
 
     public void filter();
 
+    public void newMethod();
 
 }
